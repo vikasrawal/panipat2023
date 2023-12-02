@@ -380,6 +380,48 @@
 |-------------------+-----|
 | 3. NREGA job card |     |
 
+** Health
+
+*** Incidence of out-patient treatment of illness (last 1 year)/in-patient hospitalisation (last 3 months)/illness untreated (last 1 year)
+#+ATTR_LATEX: :environment tblr
+#+ATTR_LATEX: :align colspec={|X[-1,l]|X|X|}, colsep = {4pt}, width=\linewidth, row{1-36} = {2em}
+#+ATTR_LATEX: :center :float nil :booktabs t
+| Name of worker                              |   |   |
+|---------------------------------------------+---+---|
+| Description of illness                      |   |   |
+|---------------------------------------------+---+---|
+| Duration of illness/hospitalisation         |   |   |
+|---------------------------------------------+---+---|
+| Where was the treatment received            |   |   |
+|---------------------------------------------+---+---|
+| Cost of treatment                           |   |   |
+|---------------------------------------------+---+---|
+| Additional costs                            |   |   |
+|---------------------------------------------+---+---|
+| Days of work missed                         |   |   |
+|---------------------------------------------+---+---|
+| Were you paid for the work that was missed? |   |   |
+
+*** Health Insurance
+
+#+ATTR_LATEX: :environment tblr
+#+ATTR_LATEX: :align colspec={|X[-1,l]|X|}, colsep = {4pt}, width=\linewidth, row{1-36} = {2em}
+#+ATTR_LATEX: :center :float nil :booktabs t
+| Name of worker              |     |
+|-----------------------------+-----|
+| Scheme                      |     |
+|-----------------------------+-----|
+| Individuals covered         |     |
+|-----------------------------+-----|
+| Last claim                  |     |
+|-----------------------------+-----|
+| Description of illness      |     |
+|-----------------------------+-----|
+| Was reimbursement received? |     |
+|-----------------------------+-----|
+| Out of pocket expense       |     |
+
+
 
 * Education
 
